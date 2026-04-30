@@ -1,0 +1,15 @@
+[theme]
+# The color of sliders and buttons
+primaryColor = "#00d4ff" 
+
+# The main background (Pure Black)
+backgroundColor = "#000000"
+
+# The sidebar background (Dark Charcoal)
+secondaryBackgroundColor = "#121212"
+
+# The text color (Light Gray / Dark White)
+textColor = "#E0E0E0"
+
+# Set font to sans serif for a modern look
+font = "sans serif"
